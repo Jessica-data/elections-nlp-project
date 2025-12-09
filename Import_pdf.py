@@ -59,3 +59,5 @@ else:
 
     print("-" * 30)
     print(f"🎉 Terminé ! {compteur} fichiers ont été transformés en texte.")
+
+
