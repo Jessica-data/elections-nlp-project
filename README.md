@@ -1,7 +1,7 @@
 # Determinants of US Presidential Elections (2000–2024): A Hybrid Analytical Framework
 
 ## 1. Abstract
-Hello and welcome to this repository ! 💫
+Welcome to this repository ! 
 
 This project investigates the predictive determinants of United States Presidential Elections from 2000 to 2024. It employs a **hybrid analytical approach** that integrates two distinct levels of data:
 1.  **Micro-Level:** County-specific socio-economic and demographic indicators.
