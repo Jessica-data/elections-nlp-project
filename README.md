@@ -1,4 +1,4 @@
-# Determinants of US Presidential Elections (2000–2024): A Hybrid Analytical Framework
+# Rhetoric vs. Reality: The Structural Break in U.S. Voting Behavior
 
 ## 1. Abstract
 Welcome to this repository ! 
