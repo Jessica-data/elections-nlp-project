@@ -1,4 +1,4 @@
-# Rhetoric vs. Reality: The Structural Break in U.S. Voting Behavior
+# Rhetoric vs. Reality: The Structural Break in U.S. Voting Behavior (2000-2024)
 
 ## 1. Abstract
 Welcome to this repository ! 
@@ -71,5 +71,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn textblob plotly
 
 **Jessica Bourdouxhe and Xavier Foidart**
 * **Context:** Submitted as part of DataManagement class at HEC Liège.
-* **Date:** December 2025
+* **Date:** 14 January 2026
 * **Contact:** Jessica.Bourdouxhe@student.uliege.be  |  Xfoidart@student.uliege.be 
